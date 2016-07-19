@@ -1,0 +1,2 @@
+# Ali
+A simple AI
